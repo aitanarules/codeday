@@ -18,3 +18,7 @@ La aplicación está alineada con el ODS 11 al promover el turismo sostenible, l
 * Fomenta el turismo sostenible al promover la visita a municipios de Valencia que tienen transporte público, lo que reduce la dependencia de los vehículos privados y ayuda a mitigar el impacto ambiental negativo de los viajes.
 * Contribuye a la promoción de la cultura y el patrimonio de los municipios de Valencia, lo que puede fortalecer la identidad local y fomentar un sentido de pertenencia en la comunidad.
 * Al proporcionar incentivos y recompensas para explorar los municipios, la aplicación fomenta un estilo de vida activo y saludable, alentando a los usuarios a caminar, andar en bicicleta o utilizar el transporte público en lugar de depender únicamente de los vehículos motorizados.
+
+## Vista previa
+
+
