@@ -20,5 +20,8 @@ La aplicación está alineada con el ODS 11 al promover el turismo sostenible, l
 * Al proporcionar incentivos y recompensas para explorar los municipios, la aplicación fomenta un estilo de vida activo y saludable, alentando a los usuarios a caminar, andar en bicicleta o utilizar el transporte público en lugar de depender únicamente de los vehículos motorizados.
 
 ## Vista previa
+![imagen](https://github.com/aitanarules/codeday/assets/121254480/658d0357-f10b-406c-be74-ceb2d7f92fa9)
+![imagen](https://github.com/aitanarules/codeday/assets/121254480/9f3e4363-20fd-4915-ba3c-f120622855a2)
+![imagen](https://github.com/aitanarules/codeday/assets/121254480/953b84b8-9e92-4d68-9f0d-307f967de966)
 
 
