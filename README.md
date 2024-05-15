@@ -19,6 +19,10 @@ La aplicación está alineada con el ODS 11 al promover el turismo sostenible, l
 * Contribuye a la promoción de la cultura y el patrimonio de los municipios de Valencia, lo que puede fortalecer la identidad local y fomentar un sentido de pertenencia en la comunidad.
 * Al proporcionar incentivos y recompensas para explorar los municipios, la aplicación fomenta un estilo de vida activo y saludable, alentando a los usuarios a caminar, andar en bicicleta o utilizar el transporte público en lugar de depender únicamente de los vehículos motorizados.
 
+## Despligue
+Para ejecutar la parte de FlutterFlow se debe importar el zip desde FlutterFlow y ejecutarlo con el símbolo del rayo en la esquina.
+Para ejecutar el mapa 3D de navegación se debe de hacer desde el Android Studio con un dispositivo inicializado. Se debe de seleccionar como punto de inicio el archivo map_screen2.dart del directorio lib. Si a la primera se muestra el mapa en negro, vuelve a ejecutar sin apagar (es un problema de caché del Android Studio al descargar el estilo del mapa).
+
 ## Vista previa
 ![imagen](https://github.com/aitanarules/codeday/assets/121254480/658d0357-f10b-406c-be74-ceb2d7f92fa9)
 
