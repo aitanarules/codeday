@@ -20,8 +20,9 @@ La aplicación está alineada con el ODS 11 al promover el turismo sostenible, l
 * Al proporcionar incentivos y recompensas para explorar los municipios, la aplicación fomenta un estilo de vida activo y saludable, alentando a los usuarios a caminar, andar en bicicleta o utilizar el transporte público en lugar de depender únicamente de los vehículos motorizados.
 
 ## Despligue
-Para ejecutar la parte de FlutterFlow es mejor probarlo en este link. Se recomienda acceder a inspeccionar y habilitar el modo de visualizado de móvil y ajustar un tamaño 450x800: https://valen-explora.flutterflow.app/
-Para ejecutar el mapa 3D de navegación se debe de hacer desde el Android Studio con un dispositivo inicializado. Se debe de seleccionar como punto de inicio el archivo map_screen2.dart del directorio lib. Si a la primera se muestra el mapa en negro, vuelve a ejecutar sin apagar (es un problema de caché del Android Studio al descargar el estilo del mapa).
+Para ejecutar la parte de FlutterFlow en el PC hay que en este link. Se recomienda acceder a inspeccionar y habilitar el modo de visualizado de móvil y ajustar un tamaño 450x800: https://valen-explora.flutterflow.app/
+Para ejecutar la app en el móvil se puede instalar la apk.
+Para ejecutar el mapa 3D de navegación se debe de abrir el proyecto del Mapa3DMapbox-master.zip desde el Android Studio con un dispositivo inicializado. Se debe de seleccionar como punto de inicio el archivo map_screen2.dart del directorio lib. Si al ejecutar se muestra el mapa en negro, vuelve a ejecutar sin apagar (es un problema de caché del Android Studio al descargar el estilo del mapa).
 
 ## Vista previa
 ![imagen](https://github.com/aitanarules/codeday/assets/121254480/658d0357-f10b-406c-be74-ceb2d7f92fa9)
