@@ -29,7 +29,7 @@ Para ejecutar el mapa 3D de navegación se debe de abrir el proyecto del Mapa3DM
 ## Vista previa
 ![imagen](https://github.com/aitanarules/codeday/assets/121254480/658d0357-f10b-406c-be74-ceb2d7f92fa9)
 ![image](https://github.com/aitanarules/codeday/assets/133672472/7ee9c136-b438-4033-87cb-788df793a65f)
-<img width="180" alt="Captura de pantalla 2024-05-16 030520" src="https://github.com/aitanarules/codeday/assets/133672472/8ace924c-da65-40d8-a0ed-0cc035eb628d">
+<img width="320" alt="Captura de pantalla 2024-05-16 030520" src="https://github.com/aitanarules/codeday/assets/133672472/8ace924c-da65-40d8-a0ed-0cc035eb628d">
 ![image](https://github.com/aitanarules/codeday/assets/133672472/cb4bfabb-0b9e-44e9-8fff-e25226a9e13a)
 
 
