@@ -24,7 +24,7 @@ Para ejecutar la parte de FlutterFlow en el PC hay que en este link. Se recomien
 
 Para ejecutar la app en el móvil se puede instalar la apk.
 
-Para ejecutar el mapa 3D de navegación se debe de abrir el proyecto del Mapa3DMapbox-master.zip desde el Android Studio con un dispositivo Android inicializado. Se debe de seleccionar como punto de inicio el archivo map_screen2.dart del directorio lib. Si al ejecutar se muestra el mapa en negro, vuelve a ejecutar sin apagar (es un problema de caché del Android Studio al descargar el estilo del mapa).
+Para ejecutar el mapa 3D de navegación se debe de abrir el proyecto del Mapa3DMapbox-master.zip desde el Android Studio con un dispositivo Android inicializado. Se debe de seleccionar como punto de inicio el archivo map_screen2.dart del directorio lib. Si al ejecutar se muestra el mapa en negro, vuelve a ejecutar sin apagar (es un problema de caché del Android Studio al descargar el estilo del mapa). Dado que solo se han implementado L'Eliana, deberías de establecer la localización ahí (Esto lo puedes hacer antes de ejecutar la app, ya que se centra automatica en la localización del usuario).
 
 ## Vista previa
 ![imagen](https://github.com/aitanarules/codeday/assets/121254480/658d0357-f10b-406c-be74-ceb2d7f92fa9)
